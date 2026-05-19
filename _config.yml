@@ -4,10 +4,10 @@ email:
 description: >-
   메모와 생각을 남겨두는 공간.
 locale: "ko-KR"
-url: "https://shared-cmyk1.github.io"
+url: "https://duckiechan-lang.github.io"
 baseurl: "/notes"
 twitter_username:
-github_username: shared-cmyk1
+github_username: duckiechan-lang
 minimal_mistakes_skin: "sunrise"
 search: true
 
@@ -38,13 +38,13 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/shared-cmyk1"
+      url: "https://github.com/duckiechan-lang"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/shared-cmyk1"
+      url: "https://github.com/duckiechan-lang"
 
 defaults:
   - scope:
