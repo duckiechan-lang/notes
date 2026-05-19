@@ -1,8 +1,8 @@
 # Site settings
-title: Notes
+title: 알콩달콩 똑순이 라이프
 email:
 description: >-
-  메모와 생각을 남겨두는 공간.
+  30대 중반 똑순이의 알뜰살림과 집밥 일상.
 locale: "ko-KR"
 url: "https://duckiechan-lang.github.io"
 baseurl: "/notes"
@@ -32,9 +32,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "혜민"
+  name   : "똑순이"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "기록하는 사람."
+  bio    : "알뜰하게 살림하고, 평일 저녁 집밥 챙기는 사람. 가끔 제품 리뷰도 올려요."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
