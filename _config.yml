@@ -34,7 +34,7 @@ plugins:
 author:
   name   : "똑순이"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "알뜰하게 살림하고, 평일 저녁 집밥 챙기는 사람. 가끔 제품 리뷰도 올려요."
+  bio    : "알뜰하게 살림하고 평일 저녁 집밥 챙기는 이야기. 가끔 제품리뷰"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
